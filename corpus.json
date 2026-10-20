@@ -1,0 +1,228 @@
+{
+  "filler": [
+    "yeah totally",
+    "no way, really?",
+    "haha I know",
+    "wait what happened",
+    "oh my gosh",
+    "that's so funny",
+    "I can't believe it",
+    "for real though",
+    "hang on a second",
+    "same, honestly",
+    "right, exactly",
+    "who told you that",
+    "oh come on",
+    "seriously though",
+    "wait really",
+    "that's wild",
+    "no kidding",
+    "I know right",
+    "true story",
+    "not gonna lie",
+    "honestly same",
+    "sounds about right"
+  ],
+  "clips": [
+    {
+      "id": "clip_00.wav",
+      "target": "the old man walked slowly to the store",
+      "audio_sha256": "12c2e161ac6ae55c09a898932d9dc02f9b8820630367d58ad251102cb5d3e3a7"
+    },
+    {
+      "id": "clip_01.wav",
+      "target": "she found her keys under the kitchen table",
+      "audio_sha256": "569b89ef22e222347ba24e818f994aedf1e6075cdd8522bb82fd597bdd23e428"
+    },
+    {
+      "id": "clip_02.wav",
+      "target": "the children played happily in the park",
+      "audio_sha256": "6ae0decaa8d856e78c756ac6a137b6e2c210a234b1286d75a86cc21b1ee9a213"
+    },
+    {
+      "id": "clip_03.wav",
+      "target": "he forgot his umbrella on the morning train",
+      "audio_sha256": "64898d2ba520f2f3659362d96372b292155efdfd845fabe9d9cd5a66962d7486"
+    },
+    {
+      "id": "clip_04.wav",
+      "target": "we watched the sunset from the rooftop",
+      "audio_sha256": "725b437d493c26874e6fbe25363bb474a03226b7fc8089fd8206f8c147980d18"
+    },
+    {
+      "id": "clip_05.wav",
+      "target": "the chef added salt to the boiling soup",
+      "audio_sha256": "012de699eef16f17d2c2e0bd0ad5ee1f69fc262fbd99aaa0d979ec0bd0c82533"
+    },
+    {
+      "id": "clip_06.wav",
+      "target": "my brother fixed the bicycle in the garage",
+      "audio_sha256": "45aed1b164ef9430bb3588adffa084d0f6439e298cb0115a4e6fd7e90d8e8d48"
+    },
+    {
+      "id": "clip_07.wav",
+      "target": "the dog chased the ball across the yard",
+      "audio_sha256": "9ce3bc443f3f492691473fdadbbdff7a17dd494f6013523e18a8ce1bc8f5d224"
+    },
+    {
+      "id": "clip_08.wav",
+      "target": "they planted flowers along the garden path",
+      "audio_sha256": "438eb7412f60584b1da95f50b34102174cd8737d25c1d5da6bb9f05eba6c16bb"
+    },
+    {
+      "id": "clip_09.wav",
+      "target": "the teacher wrote the answer on the board",
+      "audio_sha256": "6a85823334864174846f7e7ee49b7321a2d8ad1d0759f7ea4dcf84dcba22f048"
+    },
+    {
+      "id": "clip_10.wav",
+      "target": "she poured coffee into the blue mug",
+      "audio_sha256": "64bedbbde3e6f027ce6f2b4f097d25ef1a1665cba93be9cbcff5643cb07d8e66"
+    },
+    {
+      "id": "clip_11.wav",
+      "target": "the mechanic checked the engine before the trip",
+      "audio_sha256": "eed4a1336b0d4f6500ac4e81ef8e85bc1498a3adbeb824930c907308031e35fc"
+    },
+    {
+      "id": "clip_12.wav",
+      "target": "he read the letter twice before replying",
+      "audio_sha256": "79fcc684c1621370f2d0bafb405d1eb74507c1698e89f7d7042b4ada34bc3cb8"
+    },
+    {
+      "id": "clip_13.wav",
+      "target": "the baker pulled fresh bread from the oven",
+      "audio_sha256": "6830c02cb91afca01207148edf5817d75b44efa00e4afc6f57b2886066452a48"
+    },
+    {
+      "id": "clip_14.wav",
+      "target": "we hiked up the trail before noon",
+      "audio_sha256": "d931d4c857f8dc61a823b947255dd2bcef37ebe334b0c3151b76a7491c589d25"
+    },
+    {
+      "id": "clip_15.wav",
+      "target": "the cat curled up on the warm windowsill",
+      "audio_sha256": "093165dffe72b1f6d7c11d2f1439b76278738fb018b5190d44e4b0d9e64f59a9"
+    },
+    {
+      "id": "clip_16.wav",
+      "target": "she signed the form and handed it back",
+      "audio_sha256": "684fdbd7c39c8a084ad0e2f8839ff59ce2f384762d04b5bb6a93661162605981"
+    },
+    {
+      "id": "clip_17.wav",
+      "target": "the students lined up outside the classroom",
+      "audio_sha256": "c50b0fc5305f46150a5ec0f55879649a8e0a06cbe5ec32a223176bc3781d932c"
+    },
+    {
+      "id": "clip_18.wav",
+      "target": "he tightened the bolts on the old fence",
+      "audio_sha256": "b0c6f9690762f5ee64fd860821c1e51f9d444faae89bf7516d724a8b1a57f558"
+    },
+    {
+      "id": "clip_19.wav",
+      "target": "the nurse checked his temperature twice",
+      "audio_sha256": "547ab82f905f9b6991f06013f2c45a2f43e9bd68d5981e742a25555e4f4386fb"
+    },
+    {
+      "id": "clip_20.wav",
+      "target": "they packed the car for the long drive",
+      "audio_sha256": "7ab982fff38606ba8b6754509d5491020a3dc5662b4bd8f4d69ef0e4929f69cc"
+    },
+    {
+      "id": "clip_21.wav",
+      "target": "the pianist practiced the same passage again",
+      "audio_sha256": "2b9a53e34e9fe49db1d1015c64f0cb11a8b26e80d0cdd178164c8c3a8df22cbd"
+    },
+    {
+      "id": "clip_22.wav",
+      "target": "she watered the plants before leaving for work",
+      "audio_sha256": "96617ef4e711ca53186c743765f6b70d694356409c6c2c324e437546b80b1619"
+    },
+    {
+      "id": "clip_23.wav",
+      "target": "the farmer loaded hay onto the truck",
+      "audio_sha256": "6cd63ce71616435b15fed6a820ba9f6139e84ed255b07f58b523cefc2504d76f"
+    },
+    {
+      "id": "clip_24.wav",
+      "target": "he folded the laundry while watching the news",
+      "audio_sha256": "3f8528275cdaa1c02c7a23015c593a0c4be09358cb7ea02380f6809ed7ef0c7d"
+    },
+    {
+      "id": "clip_25.wav",
+      "target": "the librarian reshelved the returned books",
+      "audio_sha256": "86997bb3f60e0e4926a6cf7c1366ab438cd8247a558987a4b3305c20b89a9e8a"
+    },
+    {
+      "id": "clip_26.wav",
+      "target": "we painted the fence a bright shade of white",
+      "audio_sha256": "9f2f483cdd65b3210e0a9406045abd0c0a149168fba7b08d4e9b9bd30a87b4e2"
+    },
+    {
+      "id": "clip_27.wav",
+      "target": "the toddler stacked the blocks into a tower",
+      "audio_sha256": "4db82e816d7d7c8f8e9556dfd0fff3dee29f11e0a57f512d6db40f44772d1d72"
+    },
+    {
+      "id": "clip_28.wav",
+      "target": "she mailed the package on her way home",
+      "audio_sha256": "606b40c345fa87aa2d215beeb3f540e5a3a08df591f7b27d1eae292a1c4bc3fc"
+    },
+    {
+      "id": "clip_29.wav",
+      "target": "the electrician replaced the broken light switch",
+      "audio_sha256": "2432bbba674fa09a9480c608981dd8f69e3409606e17716c781bed57e865397e"
+    },
+    {
+      "id": "clip_30.wav",
+      "target": "he parked the car near the old oak tree",
+      "audio_sha256": "972ebb4927661fda75cc717f7627487872611a60fc1f893b4e56a747a6412a49"
+    },
+    {
+      "id": "clip_31.wav",
+      "target": "the waiter brought the check to the table",
+      "audio_sha256": "47cde8f41c0825b39242ce530153502f7e3e1f57c941c6a26ebfc9ac9b0c781f"
+    },
+    {
+      "id": "clip_32.wav",
+      "target": "they rehearsed the song one more time",
+      "audio_sha256": "610b13aa87f0cee5e5db920b7608a16ad39f1ec6f90547303bd4c4b6bec5fb9c"
+    },
+    {
+      "id": "clip_33.wav",
+      "target": "she sketched the mountains from the balcony",
+      "audio_sha256": "bed72fc76c098cf2e68bbd94795751abf938a5f96cd882a89d762a78d7d500bd"
+    },
+    {
+      "id": "clip_34.wav",
+      "target": "the plumber fixed the leak under the sink",
+      "audio_sha256": "e608b0ff3a5dd6b9c8c4c604147330d9402a84d0195de5b6f441f49a75f713f8"
+    },
+    {
+      "id": "clip_35.wav",
+      "target": "he swept the porch before the guests arrived",
+      "audio_sha256": "85187131fbe17fd054452a4009a5e0377a7d2b8b46fef6b6cb314ac2121f7c8d"
+    },
+    {
+      "id": "clip_36.wav",
+      "target": "the runner tied her shoes before the race",
+      "audio_sha256": "14bb12206f1c388c8d4c4c63f58c2017bcad5b3fd88b54be5a075d996724fa3d"
+    },
+    {
+      "id": "clip_37.wav",
+      "target": "we carried the boxes up to the attic",
+      "audio_sha256": "458b92ed8321eebd86be07e108cf4a69a30a782251aab8711ed57a95903999de"
+    },
+    {
+      "id": "clip_38.wav",
+      "target": "the barista steamed the milk for the latte",
+      "audio_sha256": "c77a94c091e6d1cbc51d916aa31fa81e26ae19def1ed16c438392d2307008923"
+    },
+    {
+      "id": "clip_39.wav",
+      "target": "she locked the door and checked it twice",
+      "audio_sha256": "879a9e02997127ea94f60e89bbd9b0e53640d8be3e38a78c28a5066ad1ae73e9"
+    }
+  ]
+}

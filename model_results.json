@@ -1,0 +1,1008 @@
+{
+  "models": {
+    "whisper_base": {
+      "per_clip": {
+        "clip_00.wav": {
+          "predicted": " The world may rock, we look into the story a lot."
+        },
+        "clip_01.wav": {
+          "predicted": " What are Eminem's now to choose? She found herself as the Himself Azul"
+        },
+        "clip_02.wav": {
+          "predicted": " The child was probably a lot better than I was."
+        },
+        "clip_03.wav": {
+          "predicted": " He forgot his umbrella for the portrait."
+        },
+        "clip_04.wav": {
+          "predicted": " We want to sunset for a few hours."
+        },
+        "clip_05.wav": {
+          "predicted": " The show adds on to the right and see how..."
+        },
+        "clip_06.wav": {
+          "predicted": " My brother, I'm so surprised. I don't really know. It's all right."
+        },
+        "clip_07.wav": {
+          "predicted": " The dog chased the ball and crossed the horse."
+        },
+        "clip_08.wav": {
+          "predicted": " They plan to do louder sound, the mic's so loud."
+        },
+        "clip_09.wav": {
+          "predicted": " The teacher votes the animals are in the live hell."
+        },
+        "clip_10.wav": {
+          "predicted": " She broke my heart into the sun."
+        },
+        "clip_11.wav": {
+          "predicted": " I'm Eddie met with me on youtube with the book of public rights."
+        },
+        "clip_12.wav": {
+          "predicted": " He will not rise before one's eyes."
+        },
+        "clip_13.wav": {
+          "predicted": " That I haven't told you this match I Platz really\u6613 have mixture of beliefs."
+        },
+        "clip_14.wav": {
+          "predicted": " I see that I know, but it's so fun."
+        },
+        "clip_15.wav": {
+          "predicted": " I have a workshop on a bamboo cell."
+        },
+        "clip_16.wav": {
+          "predicted": " She signs her door and hides her back."
+        },
+        "clip_17.wav": {
+          "predicted": " The stupid line of outside the classroom."
+        },
+        "clip_18.wav": {
+          "predicted": " He tightened his voice on the old house."
+        },
+        "clip_19.wav": {
+          "predicted": " The next turn is taken here twice."
+        },
+        "clip_20.wav": {
+          "predicted": " I know, right? That's right. I'm not interested in singing."
+        },
+        "clip_21.wav": {
+          "predicted": " The scene is too loud, that's what the scene has to do."
+        },
+        "clip_22.wav": {
+          "predicted": " She is on my hands, oh my god, I know right now."
+        },
+        "clip_23.wav": {
+          "predicted": " Video is controlled."
+        },
+        "clip_24.wav": {
+          "predicted": " He phoned us on laundry while we're watching the news."
+        },
+        "clip_25.wav": {
+          "predicted": " The life where I shall do is your own."
+        },
+        "clip_26.wav": {
+          "predicted": " We need to go down to the right, share our rights."
+        },
+        "clip_27.wav": {
+          "predicted": " The tether seriously locks in soy tower."
+        },
+        "clip_28.wav": {
+          "predicted": " She builds the package on her way."
+        },
+        "clip_29.wav": {
+          "predicted": " The left room is in place of the broad light. That's right."
+        },
+        "clip_30.wav": {
+          "predicted": " He part with Pande all the oil that pilebin."
+        },
+        "clip_31.wav": {
+          "predicted": " The radar right the jet to the tower."
+        },
+        "clip_32.wav": {
+          "predicted": " They were supposed to have a lot more time."
+        },
+        "clip_33.wav": {
+          "predicted": " She's getting the answers from the valley."
+        },
+        "clip_34.wav": {
+          "predicted": " Fleaair Droman Pholosedum Journal"
+        },
+        "clip_35.wav": {
+          "predicted": " I didn't write it in a wrong way."
+        },
+        "clip_36.wav": {
+          "predicted": " The runway, either. She'll where that right says."
+        },
+        "clip_37.wav": {
+          "predicted": " We care more about the city atmosphere."
+        },
+        "clip_38.wav": {
+          "predicted": " The bar is to stay down for the night."
+        },
+        "clip_39.wav": {
+          "predicted": " She laughed on his explanation, but it was..."
+        }
+      }
+    },
+    "whisper_small": {
+      "per_clip": {
+        "clip_00.wav": {
+          "predicted": " The real and real rock slowly back to the story."
+        },
+        "clip_01.wav": {
+          "predicted": " She found her shoes on the kitchen table."
+        },
+        "clip_02.wav": {
+          "predicted": " The children play happily to the black."
+        },
+        "clip_03.wav": {
+          "predicted": " He forgot his umbrella by the morning trail."
+        },
+        "clip_04.wav": {
+          "predicted": " We watched the sunset for the blue skies."
+        },
+        "clip_05.wav": {
+          "predicted": " The show is really tight on us all though."
+        },
+        "clip_06.wav": {
+          "predicted": " I'm\u6cb9 Slide Director."
+        },
+        "clip_07.wav": {
+          "predicted": " The dog chased the ball across the house."
+        },
+        "clip_08.wav": {
+          "predicted": " They planted the flowers along the garden side."
+        },
+        "clip_09.wav": {
+          "predicted": " The teacher wrote the answer of the line."
+        },
+        "clip_10.wav": {
+          "predicted": " She pours coffee into the booze."
+        },
+        "clip_11.wav": {
+          "predicted": " The cameo checked the engine. He had the trims."
+        },
+        "clip_12.wav": {
+          "predicted": " He reads the last twice before what's final."
+        },
+        "clip_13.wav": {
+          "predicted": " I can't hold it. I'm serious. I can't hold it."
+        },
+        "clip_14.wav": {
+          "predicted": " Transcribe only the clear background voice, ignoring background chatter."
+        },
+        "clip_15.wav": {
+          "predicted": " That's why I do it!"
+        },
+        "clip_16.wav": {
+          "predicted": " She sign a mic noise and Alexa asks are you all still\u8fd8\u6d3b responsibility, but for All we don't know is just silence and rest of the boring comments llana can we still hear? we can't hear her but we as all painted the picture was running away and shadow was\u7684\u6642\u5019 \uac00\uc9c0\uace0 witnesses showing us every oneyss a super cooked food my bleating pig with no cookie n\u00f3i\u0438\u043b\u044f short drink gleyden facies why she uns Magic decline what anointing What the idea now is that this monotone is a son of beasts"
+        },
+        "clip_17.wav": {
+          "predicted": " The stupid slide arrives outside the classroom."
+        },
+        "clip_18.wav": {
+          "predicted": " He tightened the sprockets on the lower back."
+        },
+        "clip_19.wav": {
+          "predicted": " The nurse chat is telling you twice."
+        },
+        "clip_20.wav": {
+          "predicted": " A note of our mad tied Skewered A Loki"
+        },
+        "clip_21.wav": {
+          "predicted": " That's what I want to say, you better wait, really?"
+        },
+        "clip_22.wav": {
+          "predicted": " She knows how I am, oh my God, oh my God, oh my God."
+        },
+        "clip_23.wav": {
+          "predicted": " The farmer is on the trail."
+        },
+        "clip_24.wav": {
+          "predicted": " He fooled us laundry while watching the news."
+        },
+        "clip_25.wav": {
+          "predicted": " maintain language not to mention you're impressed by what you do, but when the chat of computers is off-SD you can turn on the running intr parece"
+        },
+        "clip_26.wav": {
+          "predicted": " We painted the fence a bright shade of our light."
+        },
+        "clip_27.wav": {
+          "predicted": " The tether still blocks into a tower."
+        },
+        "clip_28.wav": {
+          "predicted": " She mailed the package on her way over."
+        },
+        "clip_29.wav": {
+          "predicted": " The last version had replaced the myrolyne light special."
+        },
+        "clip_30.wav": {
+          "predicted": " Hip hop truth rule though."
+        },
+        "clip_31.wav": {
+          "predicted": " The waiter brought the check to the table."
+        },
+        "clip_32.wav": {
+          "predicted": " they really Gar TC"
+        },
+        "clip_33.wav": {
+          "predicted": " She sketched these zoos from the valley of Nego."
+        },
+        "clip_34.wav": {
+          "predicted": " The plumber fixed the log, un-"
+        },
+        "clip_35.wav": {
+          "predicted": " Why not the orange for the guest?"
+        },
+        "clip_36.wav": {
+          "predicted": " The brother tied her shoe ramps before the race."
+        },
+        "clip_37.wav": {
+          "predicted": " We carry the box on the second half of the series."
+        },
+        "clip_38.wav": {
+          "predicted": " The bar is to still develop for the better."
+        },
+        "clip_39.wav": {
+          "predicted": " She locked on to the station and it took a while."
+        }
+      }
+    },
+    "vosk_small": {
+      "per_clip": {
+        "clip_00.wav": {
+          "predicted": "the i know where are we going to tell a story"
+        },
+        "clip_01.wav": {
+          "predicted": "so about a minute ride with him and a meal"
+        },
+        "clip_02.wav": {
+          "predicted": "the children crying about my dental black"
+        },
+        "clip_03.wav": {
+          "predicted": "he like eyes around for able to"
+        },
+        "clip_04.wav": {
+          "predicted": "we've said products are your names"
+        },
+        "clip_05.wav": {
+          "predicted": "the shower i didn't really surprise"
+        },
+        "clip_06.wav": {
+          "predicted": "my my eyes right"
+        },
+        "clip_07.wav": {
+          "predicted": "the dog across"
+        },
+        "clip_08.wav": {
+          "predicted": "they know and now the burial site"
+        },
+        "clip_09.wav": {
+          "predicted": "the smelter get a lot to answer i'm not lying around"
+        },
+        "clip_10.wav": {
+          "predicted": "she know my own i in design"
+        },
+        "clip_11.wav": {
+          "predicted": "the know yeah we'll have a ground on a treadmill"
+        },
+        "clip_12.wav": {
+          "predicted": "he well i don't know what i agree"
+        },
+        "clip_13.wav": {
+          "predicted": "that i am and fashion iran really have any"
+        },
+        "clip_14.wav": {
+          "predicted": "why we are going to carry i'm going on"
+        },
+        "clip_15.wav": {
+          "predicted": "is a good i sat on a level of leaders so"
+        },
+        "clip_16.wav": {
+          "predicted": "hi sign on an oil and"
+        },
+        "clip_17.wav": {
+          "predicted": "this is the most i now i away on the raspberry"
+        },
+        "clip_18.wav": {
+          "predicted": "he titled was always on the right exactly"
+        },
+        "clip_19.wav": {
+          "predicted": "the news channels still here"
+        },
+        "clip_20.wav": {
+          "predicted": "i know i'm saying so"
+        },
+        "clip_21.wav": {
+          "predicted": "the me i said i knew i wouldn't get really"
+        },
+        "clip_22.wav": {
+          "predicted": "the only realize you're right"
+        },
+        "clip_23.wav": {
+          "predicted": "the van and all right now"
+        },
+        "clip_24.wav": {
+          "predicted": "he's a lot of the laundry while i actually i'm going on"
+        },
+        "clip_25.wav": {
+          "predicted": "the i we already have shelters oh you do to help you relax"
+        },
+        "clip_26.wav": {
+          "predicted": "and went with i've been i've never actually different lawyers"
+        },
+        "clip_27.wav": {
+          "predicted": "the to either so he like our entire around"
+        },
+        "clip_28.wav": {
+          "predicted": "she really not really really"
+        },
+        "clip_29.wav": {
+          "predicted": "the answers to played on the bright lights as well"
+        },
+        "clip_30.wav": {
+          "predicted": "he plans army or the only child"
+        },
+        "clip_31.wav": {
+          "predicted": "the global right the time"
+        },
+        "clip_32.wav": {
+          "predicted": "they will never set out on your hairstyle"
+        },
+        "clip_33.wav": {
+          "predicted": "she getting out of your married"
+        },
+        "clip_34.wav": {
+          "predicted": "the play my really in syria i don't know what"
+        },
+        "clip_35.wav": {
+          "predicted": "the final write another argument was right right right"
+        },
+        "clip_36.wav": {
+          "predicted": "the runaway higher for she'll show i don't worry about"
+        },
+        "clip_37.wav": {
+          "predicted": "we already know honest i went out of here"
+        },
+        "clip_38.wav": {
+          "predicted": "there are still we ran my slave"
+        },
+        "clip_39.wav": {
+          "predicted": "we laughed and social already to"
+        }
+      }
+    },
+    "wav2vec2_base": {
+      "per_clip": {
+        "clip_00.wav": {
+          "predicted": "YR I WULDS I GON ROUND U SO AN LA"
+        },
+        "clip_01.wav": {
+          "predicted": "SO VALLI MY OW RIGHT ON ERY AN ANY"
+        },
+        "clip_02.wav": {
+          "predicted": "THAT YOU ARY ON RY HATL INO MACK"
+        },
+        "clip_03.wav": {
+          "predicted": "HE THOUGHT GOT LIKE A IN RANALI WER  RI WITHAT TRATO I"
+        },
+        "clip_04.wav": {
+          "predicted": "HE'S I SHOW RAW E AN FRODES EE NOWS"
+        },
+        "clip_05.wav": {
+          "predicted": "THE SHALLOW IN RELLINGS I DON'T RIN LOSIN O"
+        },
+        "clip_06.wav": {
+          "predicted": "MY MIGHT ARIH TILL IS RIGHT WITH IA"
+        },
+        "clip_07.wav": {
+          "predicted": "THE DOGIS YOWN RAEON"
+        },
+        "clip_08.wav": {
+          "predicted": "THEYD LANTIN ALOWRS WELL  THE RARES HAVE"
+        },
+        "clip_09.wav": {
+          "predicted": "TELS AR ET ALA TEANHOLS ER AN O MOHOW"
+        },
+        "clip_10.wav": {
+          "predicted": "SHE NOO O AL I INTO THY NO NAME"
+        },
+        "clip_11.wav": {
+          "predicted": "THO NO HON YOU'LL HAVE I RA TO MY O TRAIL"
+        },
+        "clip_12.wav": {
+          "predicted": "HE RAN OER I AS O HIL TAT I REL"
+        },
+        "clip_13.wav": {
+          "predicted": "THA AMMONS MORE IRASH I MA A O HOW"
+        },
+        "clip_14.wav": {
+          "predicted": "O I DARING AT I CARRY O WE ORDER TO WELLO"
+        },
+        "clip_15.wav": {
+          "predicted": "NOWIN CURI TAT O E A WERRI WE IS SO"
+        },
+        "clip_16.wav": {
+          "predicted": "SHE'S SIGHING HI LOM AND I ER A ANNE L"
+        },
+        "clip_17.wav": {
+          "predicted": "THISN MY T I KNOW OUS OU THE RILERING"
+        },
+        "clip_18.wav": {
+          "predicted": "HE TIHT OUT ROYL ON THE RIGT O THOTHERN WE"
+        },
+        "clip_19.wav": {
+          "predicted": "THE MISL CANTIS A TON YOU IN MY NE"
+        },
+        "clip_20.wav": {
+          "predicted": "I DO NOI ABOT THE IRAND MOTHER IF I SAID"
+        },
+        "clip_21.wav": {
+          "predicted": "BOTY RE O KNOW I OLS THAT AINT KNOW  I WAK IN LIKE"
+        },
+        "clip_22.wav": {
+          "predicted": "NOT I I ONG IN THE HOLE Y YONO AN O I DON'T HE HIM"
+        },
+        "clip_23.wav": {
+          "predicted": "HE VOURS I OUT MY HER I  MY HEOIL"
+        },
+        "clip_24.wav": {
+          "predicted": "HEVING OT I TO ARDERY WHILE I IIN YOMONA"
+        },
+        "clip_25.wav": {
+          "predicted": "THE LIGHT RIIN TE OW WO O IT IT YOUR EANT OUR IN"
+        },
+        "clip_26.wav": {
+          "predicted": "AND WI WITH AUL OWS IN THE RAN A OR LOWERS"
+        },
+        "clip_27.wav": {
+          "predicted": "THE TATHER SORIOUS TE YOUNG AN TI  ROUN"
+        },
+        "clip_28.wav": {
+          "predicted": "SHE BEELS W MANTELES ARE NOTER THEY AR ELA"
+        },
+        "clip_29.wav": {
+          "predicted": "THE ANSWER E VERY LATER ON THE MERION MI AID RE"
+        },
+        "clip_30.wav": {
+          "predicted": "HE PARTED NO ARMY AL THOUGH AN  LE OW OUT"
+        },
+        "clip_31.wav": {
+          "predicted": "AXAVER ORIGHT AND WE ADDETO THE ATOY ON RAIL"
+        },
+        "clip_32.wav": {
+          "predicted": "THEY REMERSED ITASONO IRIASNTIRELY"
+        },
+        "clip_33.wav": {
+          "predicted": "SHE AS GETTING TO RIM OUT AS OILS CROWIN A RIYLOW"
+        },
+        "clip_34.wav": {
+          "predicted": "EPLY MARIL AM NELURIAS I NO DO A WHA"
+        },
+        "clip_35.wav": {
+          "predicted": "IF I DAN ITON O IO IN FRAAO"
+        },
+        "clip_36.wav": {
+          "predicted": "EM MUNERING HIGHER AS SURE AND I GOITD A RAN O RO"
+        },
+        "clip_37.wav": {
+          "predicted": "E ARE IM ONI I NOT I HAR YOU ATTLE I RE"
+        },
+        "clip_38.wav": {
+          "predicted": "ERE ARS JUSTLING RANLOK ITHAR A SAD HIGH"
+        },
+        "clip_39.wav": {
+          "predicted": "SHE WI HAVE NIENTOL SHORY TO A NAW"
+        }
+      }
+    },
+    "qwen3_asr_0.6b": {
+      "per_clip": {
+        "clip_00.wav": {
+          "predicted": "They will be brought to the stone wall."
+        },
+        "clip_01.wav": {
+          "predicted": "She found her keys in the kitchen."
+        },
+        "clip_02.wav": {
+          "predicted": "The children play happily in the park."
+        },
+        "clip_03.wav": {
+          "predicted": "He forgot his umbrella on the train."
+        },
+        "clip_04.wav": {
+          "predicted": "We watch the sunset from the hill."
+        },
+        "clip_05.wav": {
+          "predicted": "The show. Our salted soy soup."
+        },
+        "clip_06.wav": {
+          "predicted": "My brother likes the bicycle in my garage."
+        },
+        "clip_07.wav": {
+          "predicted": "The dog chased the ball across the yard."
+        },
+        "clip_08.wav": {
+          "predicted": "They planted flowers along the garden path."
+        },
+        "clip_09.wav": {
+          "predicted": "The teacher wrote the answer on the whiteboard."
+        },
+        "clip_10.wav": {
+          "predicted": "She poured coffee into the same."
+        },
+        "clip_11.wav": {
+          "predicted": "Then can you check the engine before the trip?"
+        },
+        "clip_12.wav": {
+          "predicted": "He won a last fight before a fight."
+        },
+        "clip_13.wav": {
+          "predicted": "The band is fresh, ready for public."
+        },
+        "clip_14.wav": {
+          "predicted": "We high school train for real."
+        },
+        "clip_15.wav": {
+          "predicted": "The cat and the mouse on the wall."
+        },
+        "clip_16.wav": {
+          "predicted": "She sighs. Oh no, and he is so bummy."
+        },
+        "clip_17.wav": {
+          "predicted": "The students lined up outside the classroom."
+        },
+        "clip_18.wav": {
+          "predicted": "He tightens the bolts on the old hatch."
+        },
+        "clip_19.wav": {
+          "predicted": "The nurse chimes twice."
+        },
+        "clip_20.wav": {
+          "predicted": "That sounds about right. That sounds insane."
+        },
+        "clip_21.wav": {
+          "predicted": "The piano stops in the same house again."
+        },
+        "clip_22.wav": {
+          "predicted": "She wants to go."
+        },
+        "clip_23.wav": {
+          "predicted": "The farmer lay on the field."
+        },
+        "clip_24.wav": {
+          "predicted": "He folded up his laundry while watching the news."
+        },
+        "clip_25.wav": {
+          "predicted": "The librarian reshuffled her series."
+        },
+        "clip_26.wav": {
+          "predicted": "We painted the fence a bright shade of white."
+        },
+        "clip_27.wav": {
+          "predicted": "The toddler stares into the."
+        },
+        "clip_28.wav": {
+          "predicted": "She mails a package on her way home."
+        },
+        "clip_29.wav": {
+          "predicted": "They left Chanel Place to the bar light switch."
+        },
+        "clip_30.wav": {
+          "predicted": "He parked Rui near the oil factory."
+        },
+        "clip_31.wav": {
+          "predicted": "The waiter brought the check to the table."
+        },
+        "clip_32.wav": {
+          "predicted": "They rehearsed the song one more time."
+        },
+        "clip_33.wav": {
+          "predicted": "She sketched the photos from the paintings."
+        },
+        "clip_34.wav": {
+          "predicted": "The plumber fixed the lawn on the same."
+        },
+        "clip_35.wav": {
+          "predicted": "He swept off the lawn."
+        },
+        "clip_36.wav": {
+          "predicted": "The runner tires before the race."
+        },
+        "clip_37.wav": {
+          "predicted": "We carry the boxes on the attic."
+        },
+        "clip_38.wav": {
+          "predicted": "Get ready to steal the milk for the lack of hunger."
+        },
+        "clip_39.wav": {
+          "predicted": "She locked on a man she'd met twice."
+        }
+      }
+    },
+    "parakeet_ctc_0.6b": {
+      "per_clip": {
+        "clip_00.wav": {
+          "predicted": ""
+        },
+        "clip_01.wav": {
+          "predicted": ""
+        },
+        "clip_02.wav": {
+          "predicted": "ren"
+        },
+        "clip_03.wav": {
+          "predicted": "he forgot his umbrella on the hse same train"
+        },
+        "clip_04.wav": {
+          "predicted": ""
+        },
+        "clip_05.wav": {
+          "predicted": ""
+        },
+        "clip_06.wav": {
+          "predicted": ""
+        },
+        "clip_07.wav": {
+          "predicted": ""
+        },
+        "clip_08.wav": {
+          "predicted": ""
+        },
+        "clip_09.wav": {
+          "predicted": "the teacher answer my guard"
+        },
+        "clip_10.wav": {
+          "predicted": "she was right"
+        },
+        "clip_11.wav": {
+          "predicted": ""
+        },
+        "clip_12.wav": {
+          "predicted": "really quiet"
+        },
+        "clip_13.wav": {
+          "predicted": ""
+        },
+        "clip_14.wav": {
+          "predicted": ""
+        },
+        "clip_15.wav": {
+          "predicted": ""
+        },
+        "clip_16.wav": {
+          "predicted": ""
+        },
+        "clip_17.wav": {
+          "predicted": "students outside of the classroom"
+        },
+        "clip_18.wav": {
+          "predicted": ""
+        },
+        "clip_19.wav": {
+          "predicted": "st your toys"
+        },
+        "clip_20.wav": {
+          "predicted": ""
+        },
+        "clip_21.wav": {
+          "predicted": ""
+        },
+        "clip_22.wav": {
+          "predicted": ""
+        },
+        "clip_23.wav": {
+          "predicted": ""
+        },
+        "clip_24.wav": {
+          "predicted": ""
+        },
+        "clip_25.wav": {
+          "predicted": ""
+        },
+        "clip_26.wav": {
+          "predicted": "we painted the ten in like shade"
+        },
+        "clip_27.wav": {
+          "predicted": "top st"
+        },
+        "clip_28.wav": {
+          "predicted": "she her"
+        },
+        "clip_29.wav": {
+          "predicted": ""
+        },
+        "clip_30.wav": {
+          "predicted": ""
+        },
+        "clip_31.wav": {
+          "predicted": "ter"
+        },
+        "clip_32.wav": {
+          "predicted": "they rehearsedong"
+        },
+        "clip_33.wav": {
+          "predicted": "she searched the downsts from the bc"
+        },
+        "clip_34.wav": {
+          "predicted": ""
+        },
+        "clip_35.wav": {
+          "predicted": "right"
+        },
+        "clip_36.wav": {
+          "predicted": ""
+        },
+        "clip_37.wav": {
+          "predicted": ""
+        },
+        "clip_38.wav": {
+          "predicted": ""
+        },
+        "clip_39.wav": {
+          "predicted": ""
+        }
+      }
+    },
+    "gemini_naive": {
+      "per_clip": {
+        "clip_00.wav": {
+          "predicted": "The real issue went into the store."
+        },
+        "clip_01.wav": {
+          "predicted": "She found her shoes under the kitchen table."
+        },
+        "clip_02.wav": {
+          "predicted": "The children played happily in the park."
+        },
+        "clip_03.wav": {
+          "predicted": "He forgot his umbrella."
+        },
+        "clip_04.wav": {
+          "predicted": "We watched the sunset from the hill."
+        },
+        "clip_05.wav": {
+          "predicted": "The shallow ones are really tiny and easy to"
+        },
+        "clip_06.wav": {
+          "predicted": "My mother wiped the bicycle. The ripe taste of cheese improves with age."
+        },
+        "clip_07.wav": {
+          "predicted": "The dog chased the ball across the lawn."
+        },
+        "clip_08.wav": {
+          "predicted": "They planted flowers along the garden path."
+        },
+        "clip_09.wav": {
+          "predicted": "The teacher wrote the answer on the board."
+        },
+        "clip_10.wav": {
+          "predicted": "She poured coffee into the sink."
+        },
+        "clip_11.wav": {
+          "predicted": "Did you check the engine before the trip? Where were all the children?"
+        },
+        "clip_12.wav": {
+          "predicted": "He... Wait, that's fake. Wait, that's fake. That's real."
+        },
+        "clip_13.wav": {
+          "predicted": "The battle was gradually. They had fresh ice cream from cows."
+        },
+        "clip_14.wav": {
+          "predicted": "Oh, hey! Look at that trail. Good for you, though."
+        },
+        "clip_15.wav": {
+          "predicted": "That kind of hurt. That's what I'm saying. I can't believe this is so"
+        },
+        "clip_16.wav": {
+          "predicted": "She sighed. Right, that's all I know, and he has to take back."
+        },
+        "clip_17.wav": {
+          "predicted": "The students lined up outside of the classroom."
+        },
+        "clip_18.wav": {
+          "predicted": "He tightened his grip on her waist. Sounds like a plan, right? Exactly."
+        },
+        "clip_19.wav": {
+          "predicted": "The nurse challenged his wife. I can't shout as loud as his wife."
+        },
+        "clip_20.wav": {
+          "predicted": "I know, right? Totally. Same. 100%. Literally same. So true."
+        },
+        "clip_21.wav": {
+          "predicted": "That's twice, right? I want to send a message again. Wait, really?"
+        },
+        "clip_22.wav": {
+          "predicted": "Haha. I know, right? Oh my god. I know, right?"
+        },
+        "clip_23.wav": {
+          "predicted": "That's so tough to tell, though. The farmer tossed the hay onto the truck."
+        },
+        "clip_24.wav": {
+          "predicted": "He folds the laundry while watching the news."
+        },
+        "clip_25.wav": {
+          "predicted": "The hype is real, Michelle. Are you serious? No you didn't."
+        },
+        "clip_26.wav": {
+          "predicted": "Wait, what the hell is that color?"
+        },
+        "clip_27.wav": {
+          "predicted": "The toddler studies the stars in the sky."
+        },
+        "clip_28.wav": {
+          "predicted": "She mailed the package on her way home."
+        },
+        "clip_29.wav": {
+          "predicted": "The electrician replaced the broken light switch."
+        },
+        "clip_30.wav": {
+          "predicted": "He parked his truck near the old engine."
+        },
+        "clip_31.wav": {
+          "predicted": "The waiter brought the chair to the table."
+        },
+        "clip_32.wav": {
+          "predicted": "They release the song 1:00 p.m. their time."
+        },
+        "clip_33.wav": {
+          "predicted": "She's scheduled. Right, six hours. Six hours from the valley."
+        },
+        "clip_34.wav": {
+          "predicted": "Wait, really? I'm serious. No way."
+        },
+        "clip_35.wav": {
+          "predicted": "History must never be rewritten though, isn't that right?"
+        },
+        "clip_36.wav": {
+          "predicted": "The runner tied her shoes before the race. What do you think about running?"
+        },
+        "clip_37.wav": {
+          "predicted": "We came all the way out here. Oh, come on! I'm still so upset about it."
+        },
+        "clip_38.wav": {
+          "predicted": "Yeah, the Hostess. I still have Twinkies on the brain, Hostess definitely."
+        },
+        "clip_39.wav": {
+          "predicted": "She locked the door twice. We would have to pay so much to see it."
+        }
+      },
+      "meta": {
+        "model": "gemini-3.8-flash",
+        "prompt": "Transcribe this audio. Output only the transcript text, nothing else.",
+        "temperature": 0,
+        "run_at": "2026-10-11T03:31:16.862974+00:00"
+      }
+    },
+    "gemini_instructed": {
+      "per_clip": {
+        "clip_00.wav": {
+          "predicted": "We walked together to the store."
+        },
+        "clip_01.wav": {
+          "predicted": "She found her shoes on that kitchen table."
+        },
+        "clip_02.wav": {
+          "predicted": "The children played happily in the park."
+        },
+        "clip_03.wav": {
+          "predicted": "He forgot his umbrella, so he got drenched in the rain."
+        },
+        "clip_04.wav": {
+          "predicted": "We watched the sunset from the hill."
+        },
+        "clip_05.wav": {
+          "predicted": "The chef was really kind and courteous too."
+        },
+        "clip_06.wav": {
+          "predicted": "My mother wipes the bicycle."
+        },
+        "clip_07.wav": {
+          "predicted": "The dog chased the ball across the yard."
+        },
+        "clip_08.wav": {
+          "predicted": "They planted flowers along the garden path."
+        },
+        "clip_09.wav": {
+          "predicted": "The teacher wrote the answer on the board."
+        },
+        "clip_10.wav": {
+          "predicted": "She poured the coffee into the sink."
+        },
+        "clip_11.wav": {
+          "predicted": "The mechanic checked the engine before the trip."
+        },
+        "clip_12.wav": {
+          "predicted": "He was well liked by his peers."
+        },
+        "clip_13.wav": {
+          "predicted": "The barrel of fresh ice came by boat from Havana."
+        },
+        "clip_14.wav": {
+          "predicted": "We had to trace the trail in the dark."
+        },
+        "clip_15.wav": {
+          "predicted": "The cat and her kittens slept in the sun."
+        },
+        "clip_16.wav": {
+          "predicted": "She sighed and leaned back."
+        },
+        "clip_17.wav": {
+          "predicted": "The students lined up outside the classroom."
+        },
+        "clip_18.wav": {
+          "predicted": "He tightened his hold on the lowered bag-weight."
+        },
+        "clip_19.wav": {
+          "predicted": "A cancel culture needs to know its place."
+        },
+        "clip_20.wav": {
+          "predicted": "I know they're not all the same."
+        },
+        "clip_21.wav": {
+          "predicted": "The pianist practiced the difficult passage again and again."
+        },
+        "clip_22.wav": {
+          "predicted": "She bought a lot of apples."
+        },
+        "clip_23.wav": {
+          "predicted": "The farmer loaded the hay onto the truck."
+        },
+        "clip_24.wav": {
+          "predicted": "He folded the laundry while watching the news."
+        },
+        "clip_25.wav": {
+          "predicted": "The librarian reached for the highest shelf."
+        },
+        "clip_26.wav": {
+          "predicted": "He painted the fence a bright shade of red."
+        },
+        "clip_27.wav": {
+          "predicted": "The father strictly sucks in his tummy."
+        },
+        "clip_28.wav": {
+          "predicted": "She mailed a package on her way home."
+        },
+        "clip_29.wav": {
+          "predicted": "The electrician replaced the broken light switch."
+        },
+        "clip_30.wav": {
+          "predicted": "Ask her to tune in to the radio station."
+        },
+        "clip_31.wav": {
+          "predicted": "The waiter brought the check to the table."
+        },
+        "clip_32.wav": {
+          "predicted": "They rehearsed the song one more time."
+        },
+        "clip_33.wav": {
+          "predicted": "She's scheduled to fly home from the valley on Monday."
+        },
+        "clip_34.wav": {
+          "predicted": "The plumber fixed the leak under the sink."
+        },
+        "clip_35.wav": {
+          "predicted": "He swallowed one of them alive, though."
+        },
+        "clip_36.wav": {
+          "predicted": "The runner tied her shoes before the race."
+        },
+        "clip_37.wav": {
+          "predicted": "We can only exercise the power we have been granted."
+        },
+        "clip_38.wav": {
+          "predicted": "The artists still reeled from the loss."
+        },
+        "clip_39.wav": {
+          "predicted": "She locked the front door, checked it twice."
+        }
+      },
+      "meta": {
+        "model": "gemini-3.8-flash",
+        "prompt": "This recording contains one main speaker reading a single sentence, with several other people chattering in the background. Transcribe only the main speaker's sentence, word for word, and ignore the background voices. Output only the transcript text, with no commentary or labels.",
+        "temperature": 0,
+        "run_at": "2026-10-11T03:35:11.510760+00:00"
+      }
+    }
+  }
+}
