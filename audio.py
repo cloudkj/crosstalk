@@ -2,9 +2,6 @@
 other voices read random filler fragments in the background.
 
 Usage: python audio.py corpus.json audio/
-
-Voice models are expected in voices/:
-    python -m piper.download_voices <voice> ... --download-dir voices
 """
 import json
 import random

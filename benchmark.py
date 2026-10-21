@@ -1,9 +1,6 @@
 """Transcribe each clip with a set of speech recognition models, one pass per clip.
 
 Usage: python benchmark.py corpus.json audio/ model_results.json [engine ...]
-
-The gemini_* engines need GEMINI_API_KEY. The Vosk model is expected in vosk-models/:
-    https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip
 """
 import json
 import os
