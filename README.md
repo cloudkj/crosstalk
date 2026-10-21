@@ -4,8 +4,10 @@ Code and data for **[Can Machines Follow One Voice Through a Crowded Room?](http
 a small study testing whether "cocktail party" audio can work as a reverse Turing test: one speaker talking over
 background chatter, transcribed by people and by speech recognition models.
 
-**Short answer: not reliably** enough for a reverse Turing test. Humans lead (0.71 vs. 0.54 mean word accuracy against the best model, Gemini 3.8 Flash), but the gap is too narrow to tell people and machines apart. Check out the article
-for the method, the results, and what didn't work:
+**Short answer: yes, well enough.** Humans still lead (0.71 vs. 0.54 mean word accuracy against the best model,
+Gemini 3.8 Flash), but the gap is too narrow to tell people and machines apart, and models are only getting better. So
+cocktail-party audio doesn't work as a reverse Turing test. Check out the article for the method, the results, and
+what didn't work:
 
 [![Mean word accuracy: humans lead, followed by each model from best to worst](https://www.kelvinjiang.com/assets/img/crosstalk_chart_leaderboard.svg)](https://www.kelvinjiang.com/2026/10/can-machines-follow-voice-through-crowded-room.html)
 
